@@ -7,6 +7,8 @@ Continuous delpoyment with netlify.com link found @ https://james-maestro-challe
 
 Contentful for data management, delivered over a cdn
 
+GraphQL
+
 Files and directories you'll see in a Gatsby project.
 
     .
