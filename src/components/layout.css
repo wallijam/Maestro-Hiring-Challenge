@@ -6,12 +6,11 @@
   --mainAqua: #7fdbff;
   --mainBlack: #111111;
   --mainGray: #aaaaaa;
-  --mainYellow: #ffdc00;
+  --mainYellow: #ff9e09;
   --mainSilver: #dddddd;
 }
 
 body {
-  background: var(--mainSilver);
   color: var(--mainBlack);
   font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 }
@@ -26,13 +25,10 @@ h6 {
   letter-spacing: 0, 25rem !important;
 }
 
-.text-yellow {
-  color: var (var(--mainYellow));
-}
 
 .cart-icon {
   cursor: pointer;
-  color: var(--mainBlack);
+  color: var(--mainYellow);
   font-size: 2rem;
 }
 
@@ -47,11 +43,16 @@ h6 {
 }
 
 /* about button home page styles */
-.btn-blue {
-  color: var(--mainBlack);
-  border-color: var(--mainGray);
+.btn-yellow {
+  color: var(--mainYellow) !important;
+  border-color: var(--mainYellow) !important;
 }
-.btn-blue:hover {
-  background: var(--mainAqua);
-  color: var(--mainBlack)
+
+.btn-yellow:hover {
+  background: var(--mainYellow) !important;
+  color: var(--mainBlack) !important;
+}
+
+.footer {
+  
 }

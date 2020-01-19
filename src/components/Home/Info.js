@@ -18,7 +18,7 @@ export default function info() {
               corporis nihil, sint, commodi in debitis quia.
             </p>
             <Link to="/about/">
-              <button className="btn text-uppercase btn-blue">
+              <button className="btn text-uppercase btn-yellow">
                 about page
               </button>
             </Link>

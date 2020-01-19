@@ -6,7 +6,7 @@ import BackgroundSection from "../components/Globals/BackgroundSection"
 import Info from "../components/Home/Info"
 const IndexPage = ({ data }) => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="About" keywords={[`gatsby`, `application`, `react`]} />
     <BackgroundSection
       img={data.img.childImageSharp.fluid}
       title=""
