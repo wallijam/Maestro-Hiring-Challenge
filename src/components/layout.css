@@ -1,11 +1,13 @@
+/* 1:30:40 */
+
 :root {
-  --mainNavy: #001f3f;
+  --mainNavy: rgb(0, 31, 63);
   --mainBlue: #0074d9;
   --mainAqua: #7fdbff;
   --mainBlack: #111111;
-  --mainGray: #AAAAAA;
-  --mainYellow: #FFDC00;
-  --mainSilver: #DDDDDD;
+  --mainGray: #aaaaaa;
+  --mainYellow: #ffdc00;
+  --mainSilver: #dddddd;
 }
 
 body {
@@ -20,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Courier New', Courier, monospace !important;
+  font-family: "Courier New", Courier, monospace !important;
   letter-spacing: 0, 25rem !important;
 }
 
@@ -32,4 +34,24 @@ h6 {
   cursor: pointer;
   color: var(--mainBlack);
   font-size: 2rem;
+}
+
+.home-background {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(rgba(9, 157, 255, 0.5), rgba(9, 157, 255, 0.5));
+  background-position: center;
+  background-size: cover;
+}
+
+/* about button home page styles */
+.btn-blue {
+  color: var(--mainBlack);
+  border-color: var(--mainGray);
+}
+.btn-blue:hover {
+  background: var(--mainAqua);
+  color: var(--mainBlack)
 }

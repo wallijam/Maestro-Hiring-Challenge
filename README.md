@@ -1,5 +1,12 @@
 # JAMES WALLINGTON - INTERNSHIP 2020 CODE CHALLENGE
 
+
+
+
+Continuous delpoyment with netlify.com link found @ https://james-maestro-challenge.netlify.com/
+
+
+
 Files and directories you'll see in a Gatsby project.
 
     .
