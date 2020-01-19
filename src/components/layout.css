@@ -6,8 +6,10 @@
   --mainAqua: #7fdbff;
   --mainBlack: #111111;
   --mainGray: #aaaaaa;
-  --mainYellow: #ff9e09;
+  --mainYellow: #f1b458;
   --mainSilver: #dddddd;
+  --mainBrown: #2d1e1f;
+  --mainDarkPurple: RGB(116, 20, 31);
 }
 
 body {
@@ -25,7 +27,6 @@ h6 {
   letter-spacing: 0, 25rem !important;
 }
 
-
 .cart-icon {
   cursor: pointer;
   color: var(--mainYellow);
@@ -33,11 +34,19 @@ h6 {
 }
 
 .home-background {
-  min-height: 90vh;
+  min-height: 80vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(rgba(9, 157, 255, 0.5), rgba(9, 157, 255, 0.5));
+  background-position: center;
+  background-size: cover;
+}
+
+.about-background {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-position: center;
   background-size: cover;
 }
@@ -54,5 +63,6 @@ h6 {
 }
 
 .footer {
-  
+  background-color: var(--mainDarkPurple);
+  color: var(--mainSilver);
 }
