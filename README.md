@@ -5,7 +5,7 @@
 
 Continuous delpoyment with netlify.com link found @ https://james-maestro-challenge.netlify.com/
 
-
+Contentful for data management, delivered over a cdn
 
 Files and directories you'll see in a Gatsby project.
 
