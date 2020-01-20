@@ -25,7 +25,7 @@ export default class Menu extends Component {
                 return (
                   <div
                     key={node.id}
-                    className="col-8 col-md-6 my-3 d-flex mx-auto"
+                    className="col-11 col-md-6 my-3 d-flex mx-auto"
                   >
                     <div>
                       <Img fixed={node.image.fixed} />
