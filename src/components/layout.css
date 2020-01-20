@@ -66,3 +66,7 @@ h6 {
   background-color: var(--mainDarkPurple);
   color: var(--mainSilver);
 }
+
+.menu {
+  background: var(--mainSilver);
+}
