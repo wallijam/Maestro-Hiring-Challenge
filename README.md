@@ -1,8 +1,8 @@
 # JAMES WALLINGTON - INTERNSHIP 2020 CODE CHALLENGE
 
-For my challenge I chose to build a custom ecommerce type the for the React-based, GraphQL powered, static site generator GatsbyJS. I believe my use of this technology will catch your eye and prove I am a forward thinking canidate. I hope this helps me stick out among the crowd.
+For my challenge I chose to build a custom ecommerce type starter the for the React-based, GraphQL powered, static site generator - GatsbyJS. I believe my use of this technology will catch your eye and prove I am a forward thinking canidate.
 
-My site was a one day starter template build with some interestin functionality utilizes GraphQL to sort item data.
+My site was a one day build with some interesting functionality utilizing GraphQL to sort item data.
 
 Click around and notice how incredibly smooth Gatsby feels.
 
