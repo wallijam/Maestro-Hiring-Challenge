@@ -8,6 +8,8 @@ Click around and notice how incredibly smooth Gatsby feels.
 
 Continuous delpoyment with netlify.com link found @ https://james-maestro-challenge.netlify.com/
 
+Starting April 14, 2020, sites without a custom domain are being moved from your-site.netlify.com to your-site.netlify.app - will update when this change takes place.
+
 Files and directories you'll see in a Gatsby project.
 
     .
